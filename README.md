@@ -7,17 +7,17 @@ Data Sources:
 
 NHTSA – The National Highway Transportation Safety Administration
 FARS – Fatality Analysis Reporting System
-     * FARS is a nationwide census providing NHTSA, Congress and the American public yearly data regarding fatal injuries suffered in motor vehicle traffic crashes.
-     * Data goes as far back as 1975 and files are organized by year
+* FARS is a nationwide census providing NHTSA, Congress and the American public yearly data regarding fatal injuries suffered in motor vehicle traffic crashes.
+* Data goes as far back as 1975 and files are organized by year
 
 
 
 Tools Used:
 
 Our data was pulled from the following source: https://catalog.data.gov/](https://crashviewer.nhtsa.dot.gov/CrashAPI where we found .csv data files containing Case #, state Name, Number of fatals, Latitude, Longitude Etc. Our data is vast. After cleaning the file our team focusinmg on the year 2021 just after covid. For this we selected follwing  3 different tools 
-      1. Folium  - for interactive map -->Aline
-      2. Slemma - for browser based data visualization --> Bryan
-      3. Plotly.express - for Data visualization -->Annie
+1. Folium  - for interactive map -->Aline
+2. Slemma - for browser based data visualization --> Bryan
+3. Plotly.express - for Data visualization -->Annie
 
  Since our Team each member used different tools for reasearch we all sharing our own files not collabrated in a single file.
  
