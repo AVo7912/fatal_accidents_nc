@@ -7,8 +7,8 @@ Data Sources:
 
 NHTSA – The National Highway Transportation Safety Administration
 FARS – Fatality Analysis Reporting System
-     FARS is a nationwide census providing NHTSA, Congress and the American public yearly data regarding fatal injuries suffered in motor vehicle traffic crashes.
-     Data goes as far back as 1975 and files are organized by year
+     * FARS is a nationwide census providing NHTSA, Congress and the American public yearly data regarding fatal injuries suffered in motor vehicle traffic crashes.
+     * Data goes as far back as 1975 and files are organized by year
 
 
 
