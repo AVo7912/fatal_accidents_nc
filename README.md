@@ -40,4 +40,14 @@ Major Findings:
 
 Charts and graphs that illustrate our findings can be found in the resource folder.
 
+Ethical considerations:
+For our project, we used data from the NHTSA, National Highway Transportation Administration, and
+FARS, the Fatality Analysis Reporting System. All data is gathered by law enforcement agencies and is
+publicly available.
+The ethical considerations that we took when using the data were whether there was any identifying
+information of the persons involved in the crash. There were not any specific details like Vehicle IDs,
+persons names, or addresses. While there was not any identifying information, a google search of the
+time, date, and place where the accident occurred could give more information such as persons
+involved. This would be from news sources that may have reported on the accident.
+
 
