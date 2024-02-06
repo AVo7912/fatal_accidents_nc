@@ -20,13 +20,16 @@ Our data was pulled from the following source: https://catalog.data.gov/](https:
 3. Plotly.express - for Data visualization -->Annie
 
  Since our Team each member used different tools for reasearch we all sharing our own files not collabrated in a single file.
- 
+
+ At the beginning of our research, this is the questions we asked:
+
+ In which place/days/times/monthfatals accur more?
       
 Major Findings:
 
-1.	Heat Map, Choropleth map
+1.The most fatal accidents occur at 6:00PM (117) with 8:00PM (101) coming in second
 
-2.	SQL Server, Slemma
+2.	comparitvely week days weekends have more accidents happened.
 
 3. Top 10 counties among 100 conties have most fatals using plotly.express bar graph.Which month of the year have more fatals using a histogram,
    bubble graph showing each couties have most fatals versus pedestrian involved, multiple bar chart with same data for all the counties.
@@ -35,14 +38,8 @@ Major Findings:
    
 5. Ovarall more than 15% pedestrians involved in each county fatals. Harnet County had 22% pedestrains involved overall 36 fatals.
 
-At the beginning of our research, this is the questions we asked:
-
-In which place/days/times/monthfatals accur more?
-
 
 Charts and graphs that illustrate our findings can be found in the resource folder.
 
-Resources:
 
-Accidents_csv file - https://catalog.Data.Gov/dataset/cdc-nutrition-physical-activity-and-obesity-legislation](https://crashviewer.nhtsa.dot.gov/CrashAPI
 
